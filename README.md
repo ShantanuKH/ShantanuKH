@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shantanu</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://search.app.goo.gl/28Sjm4y">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shantanukh&label=Profile%20views&color=0e75b6&style=flat" alt="shantanukh" /> </p>
 
